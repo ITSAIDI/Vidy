@@ -8,6 +8,10 @@
 
 Vidy is a **React Native** app that enables users to **Add, and explore AI-generated videos**. Whether you're looking for creative AI-generated content or want to showcase your own, Vidy provides a seamless platform for video sharing.  
 
+## 📱 **Demo** 
+
+
+
 ## 🚀 **Features**  
 
 - 🎨 **AI-Generated Videos** – Browse and share AI-powered creations.  
