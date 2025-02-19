@@ -1,11 +1,6 @@
-
 <p align = "center">
 <img src="assets/images/logo.png" alt="Vidy App Preview" width="80" height="60"/>   
 </p>
-<a href="https://youtu.be/Y8ODUXykyG8" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-youtube-104-432560.png?f=webp" alt="Watch on YouTube" width="50">
-</a>
-
 
 # **Vidy 🎥 – AI-Generated Video Sharing App**  
 
@@ -13,11 +8,9 @@ Vidy is a **React Native** app that enables users to **Add, and explore AI-gener
 
 ## 📱 **Demo** 
 
-<p align = "center">
 <a href="https://youtu.be/Y8ODUXykyG8" target="_blank">
-    <img src="Miniature.jpg" alt="Watch the Demo" width="350" height="600">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-youtube-104-432560.png?f=webp" alt="Watch on YouTube" width="50">
 </a>
-</p>
 
 
 ## 🚀 **Features**  
