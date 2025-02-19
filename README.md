@@ -1,3 +1,9 @@
+
+<p align = "center">
+<img src="assets/images/logo.png" alt="Vidy App Preview" width="80" height="60"/>   
+</p>
+
+
 # **Vidy 🎥 – AI-Generated Video Sharing App**  
 
 Vidy is a **React Native** app that enables users to **Add, and explore AI-generated videos**. Whether you're looking for creative AI-generated content or want to showcase your own, Vidy provides a seamless platform for video sharing.  
